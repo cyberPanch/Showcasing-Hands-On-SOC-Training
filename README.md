@@ -53,13 +53,3 @@ This lab closely reflects Tier 1–2 SOC Analyst responsibilities. It enhanced m
 
 ---
 
-### 📁 Repo Contents
-
-- `incident-report.pdf` – Summary of investigation
-- `notes/` – Per-part findings
-- `screenshots/` – Visuals of SIEM/log entries
-- `links.md` – Reference links to original videos
-
----
-
-🔐 *Part of my cybersecurity portfolio showcasing hands-on SOC training through the MYDFIR 30-Day Challenge.*
